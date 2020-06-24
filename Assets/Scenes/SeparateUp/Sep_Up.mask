@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sep_Up
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: Root
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 L Thigh
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 L Thigh/Ref_Bip001 L Calf
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 L Thigh/Ref_Bip001 L Calf/Ref_Bip001
+      L Foot
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 L Thigh/Ref_Bip001 L Calf/Ref_Bip001
+      L Foot/Ref_Bip001 L Toe0
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 R Thigh
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 R Thigh/Ref_Bip001 R Calf
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 R Thigh/Ref_Bip001 R Calf/Ref_Bip001
+      R Foot
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/Ref_Bip001 R Thigh/Ref_Bip001 R Calf/Ref_Bip001
+      R Foot/Ref_Bip001 R Toe0
+    m_Weight: 0
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 L Clavicle
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 L Clavicle/Ref_Bip001 L UpperArm
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 L Clavicle/Ref_Bip001 L UpperArm/Ref_Bip001 L Forearm
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 L Clavicle/Ref_Bip001 L UpperArm/Ref_Bip001 L Forearm/Ref_Bip001
+      L Hand
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 Neck
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 Neck/Ref_Bip001 Head
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 R Clavicle
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 R Clavicle/Ref_Bip001 R UpperArm
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 R Clavicle/Ref_Bip001 R UpperArm/Ref_Bip001 R Forearm
+    m_Weight: 1
+  - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1/Ref_Bip001
+      Spine2/Ref_Bip001 R Clavicle/Ref_Bip001 R UpperArm/Ref_Bip001 R Forearm/Ref_Bip001
+      R Hand
+    m_Weight: 1
