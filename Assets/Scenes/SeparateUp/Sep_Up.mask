@@ -38,7 +38,7 @@ AvatarMask:
       R Foot/Ref_Bip001 R Toe0
     m_Weight: 0
   - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine
     m_Weight: 1
   - m_Path: Root/Ref_Bip001 Pelvis/UpperRoot/Ref_Bip001 Spine/Ref_Bip001 Spine1
